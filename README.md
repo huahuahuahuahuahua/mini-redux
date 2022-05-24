@@ -8,7 +8,7 @@ node ./index.js
 
 or
 
-you can use plugin code Runner to run `./index.js`
+you can use plugin `code Runner` to run `./index.js`
 
 But I recommend you to use plugin `Live Server` to run the `index.html` to see how store works;
 
